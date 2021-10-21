@@ -187,7 +187,7 @@ BOOL CPImageApp::InitInstance()
 	// 唯一的一个窗口已初始化，因此显示它并对其进行更新
 	m_pMainWnd->ShowWindow(SW_SHOW);
 	m_pMainWnd->UpdateWindow();
-	m_pMainWnd->SetWindowText("181120083_数媒_周筝");
+	m_pMainWnd->SetWindowText("window_title");
 	return TRUE;
 }
 
@@ -203,7 +203,7 @@ int CPImageApp::ExitInstance()
 void CPImageApp::OnFileOpen()
 {
 	CString filePath;
-	char szFilter[] = {"图片文件（*.bmp;*.jpg;*.gif;*.tif;*.png;*.jpeg;*.psd;*.dng）|*.bmp;*.jpg;*.gif;*.tif;*.png;*.jpeg;*.psd;*.dng||"};
+	char szFilter[] = {"Pic file（*.bmp;*.jpg;*.gif;*.tif;*.png;*.jpeg;*.psd;*.dng）|*.bmp;*.jpg;*.gif;*.tif;*.png;*.jpeg;*.psd;*.dng||"};
 	
 	CFileDialog dlg(TRUE,NULL,NULL,OFN_HIDEREADONLY | OFN_OVERWRITEPROMPT,szFilter);
 	if(dlg.DoModal())
