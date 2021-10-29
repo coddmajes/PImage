@@ -25,17 +25,17 @@ Including **Image transform, Image enhancement, Image restoration, Segmentation*
     
     c.	Histogram equalization；
     
-    d.	Histogram specification：shape of traget histogram is equal to a Isosceles triangle
+    d.	Histogram specification: shape of traget histogram is equal to a Isosceles triangle
     
-    e.	Spatial smoothing：offer differents smoothing filters, such as median filter, mean filter, etc
+    e.	Spatial smoothing: offer differents smoothing filters, such as median filter, mean filter, etc
     
-    f.	Spatial sharpening：offer differents sharpening filters, such as Robert, Sobel, etc
+    f.	Spatial sharpening: offer differents sharpening filters, such as Robert, Sobel, etc
     
 **3. Image enhancement: Low-pass filtering, High-pass filter**
 
-    a.	High-pass filter：Ideal // Butterworth // Gaussian low-pass filter
+    a.	High-pass filter: ideal // Butterworth // Gaussian low-pass filter
     
-    b.	Low-pass filtering：Ideal // Butterworth // Gaussian high-pass filter
+    b.	Low-pass filtering: ideal // Butterworth // Gaussian high-pass filter
 
 **4. Image restoration by using inverse filter**
     
