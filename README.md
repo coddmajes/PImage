@@ -1,4 +1,4 @@
-PImage -- Image processing based on C++
+PImage -- Image processing (C++)
 ---------------------------------------------------------------------------------------------------------
 
 @author codd
