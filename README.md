@@ -48,3 +48,5 @@ Including **Image transform, Image enhancement, Image restoration, Segmentation*
     c.	 Save and label the results of 5.a and 5.b
     
     d.	Face segmentation: obtain and save different regions of forehead, cheeks, nose and chin
+
+Results can be seen [HERE](/Results).
