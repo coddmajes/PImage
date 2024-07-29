@@ -7,9 +7,9 @@ contacts：coddmajes@gmail.com
 
 Tools: VS2012
 
-Including **Image transform, Image enhancement, Image restoration, Segmentation**
+Including **Image transformation, Image enhancement, Image restoration, Segmentation**
 
-**1. Image transform, DFT, DCT**
+**1. Image transformation, DFT, DCT**
 
     a. Open and show a file with different file extensions.(BMP/JPG/GIF/TIF/PNG,etc)
     
